@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('games', function (Blueprint $table) {
             $table->id();
             $table->string('title');
-            $table->string('image_url')->nullable();
+            $table->text('image_url')->nullable();
             $table->integer('hours_played')->default(0);
             $table->integer('hours_total')->default(10);
             $table->timestamps();
