@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "nombre": "The Legend of Zelda: Tears of the Kingdom",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets-prd.ignimgs.com%2F2022%2F09%2F14%2Fzelda-tears-of-the-kingdom-button-2k-1663127818777.jpg&f=1&nofb=1&ipt=91816436054d53313898fe7386783d4fd2ca9f37dd03eba23eb988f3d2c4147b",
+    "horasJugadas": 80,
+    "horasTotales": 120,
+    "generos": [1, 3, 8]
+  },
+  {
+    "id": 2,
+    "nombre": "Cyberpunk 2077: Phantom Liberty",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.api.playstation.com%2Fvulcan%2Fap%2Frnd%2F202111%2F3013%2FcKZ4tKNFj9C00giTzYtH8PF1.png&f=1&nofb=1&ipt=5a2ecfc97c0efa53911aa5123ef42d3887ee5ebb1db6e2c130ef435c3803f50e",
+    "horasJugadas": 120,
+    "horasTotales": 120,
+    "generos": [2, 3, 8]
+  },
+  {
+    "id": 3,
+    "nombre": "Baldur's Gate 3",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.api.playstation.com%2Fvulcan%2Fap%2Frnd%2F202302%2F2321%2Fba706e54d68d10a0eb6ab7c36cdad9178c58b7fb7bb03d28.png&f=1&nofb=1&ipt=5108d28351c588eed126f5304feb1f1b3a8dc8392f235956a15ccd3cb1e80d20",
+    "horasJugadas": 0,
+    "horasTotales": 100,
+    "generos": [2, 1]
+  },
+  {
+    "id": 4,
+    "nombre": "The Witcher 3: Wild Hunt",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstore-images.s-microsoft.com%2Fimage%2Fapps.39575.65858607118306853.39ed2a08-df0d-4ae1-aee0-c66ffb783a34.4b0c1586-4376-4ebb-a653-53a3fccec06c&f=1&nofb=1&ipt=ce719d6bfd0f5935ddb3ee357ea63885fe1814eed08c70248484aa68121712cb",
+    "horasJugadas": 150,
+    "horasTotales": 150,
+    "generos": [2, 3, 1, 8]
+  },
+  {
+    "id": 5,
+    "nombre": "Elden Ring",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets-prd.ignimgs.com%2F2021%2F06%2F12%2Felden-ring-button-03-1623460560664.jpg&f=1&nofb=1&ipt=e2b6d01a4aaea92f4840f18c6b70e0f62bedcf2a69db8a3e0e978f65738edd38",
+    "horasJugadas": 95,
+    "horasTotales": 130,
+    "generos": [2, 3, 8]
+  },
+  {
+    "id": 6,
+    "nombre": "Hades",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ff4.bcbits.com%2Fimg%2Fa3833443155_10.jpg&f=1&nofb=1&ipt=e5ba9d852720fe10eaeee65d92efcd9e84c6af8381612c69b7b1a45e69971da2",
+    "horasJugadas": 50,
+    "horasTotales": 50,
+    "generos": [4, 3, 7]
+  },
+  {
+    "id": 7,
+    "nombre": "Stardew Valley",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2022%2F09%2Fstardew-valley.jpg&f=1&nofb=1&ipt=91734eb583d0456d9793cc52acfb53a85dc7ee54df8722e56110b86b7b658153",
+    "horasJugadas": 210,
+    "horasTotales": 500,
+    "generos": [4, 5, 2]
+  },
+  {
+    "id": 8,
+    "nombre": "Hollow Knight",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.api.playstation.com%2Fcdn%2FUP1822%2FCUSA13632_00%2FGuFQKWlrIVODEA1su20fCOrNZEYX5CB9.png&f=1&nofb=1&ipt=0b285e8f433bc50bd21cdd06dc1428ae45fb180ea9c23c4396d061d6e9cc4eda",
+    "horasJugadas": 0,
+    "horasTotales": 60,
+    "generos": [4, 6, 3]
+  }
+]
